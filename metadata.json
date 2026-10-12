@@ -1,0 +1,6 @@
+{
+  "name": "3D Snakes & Ladders",
+  "description": "Premium 3D Snakes & Ladders board game with physics dice roll, animated climbing & sliding, camera auto-follow, and solo or multiplayer modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
